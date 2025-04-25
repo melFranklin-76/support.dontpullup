@@ -98,3 +98,24 @@ Explore these organizations to combat hate and find support:
 - **Website**: [dontpullupongrandma.com/support]
 
 ---
+
+## How to Commit and Push Changes
+
+To commit and push changes to the repository, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Navigate to the root directory of your project.
+3. Stage the changes you made by running:
+   ```
+   git add .
+   ```
+4. Commit the changes with a descriptive message:
+   ```
+   git commit -m "Add FirebaseAnalytics and configure DWARF with dSYM"
+   ```
+5. Push the changes to the remote repository:
+   ```
+   git push origin main
+   ```
+
+Make sure you have the necessary permissions to push changes to the repository.
